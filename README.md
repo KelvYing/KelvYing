@@ -1,12 +1,12 @@
 ### Hi there 👋, I am Kelvin Ying
-- 🔭 I’m currently working on visualizing data using Tableau 
-- 🌱 I’m currently learning Tableau, SQL, ML concepts
+- 🔭 I’m currently working on CNN and LLM
+- 🌱 I’m currently learning Deep Learning and ML concepts
 - 😄 Pronouns: he/him
 - 📫 How to reach me: k2ying@uwaterloo.ca
 
 ### Experienced in
-- 🖥️: Python, C++, Java, HTML
-- 📚: TensorFlow, Scikit-learn, Pandas, NumPy, OpenCV, Matplotlib, Seaborn
+- 🖥️: Python, C++, Java, HTML/CSS, JavaScript, Typescript
+- 📚: PyTorch, TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
 - 🧰: Git, Pycharm, Jira, Linux
 
 <!--
